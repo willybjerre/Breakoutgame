@@ -1,0 +1,40 @@
+Map:
+------------
+------------
+hhhhhhhhhhhh
+hhihhhhhhihh
+------------
+jjjjjijjjjjj
+jjijjjijjijj
+------------
+kkkkkkkkkkkk
+kkkkkkkkkkkk
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+Map/
+
+Meta:
+Name: LEVEL 2
+Time: 180
+PowerUp: i
+Meta/
+
+Legend:
+h) Breakout.Assets.Images.green-block.png
+i) Breakout.Assets.Images.teal-block.png
+j) Breakout.Assets.Images.blue-block.png
+k) Breakout.Assets.Images.brown-block.png
+Legend/

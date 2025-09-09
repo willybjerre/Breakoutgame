@@ -1,0 +1,42 @@
+Map:
+bbbbbbbbbbbb
+------------
+-#--------#-
+--#------#--
+---#----#---
+----#--#----
+------------
+------------
+---Y----Y---
+000Y----Y000
+000Y----Y000
+000Y----Y000
+000Y-##-Y000
+000Y----Y000
+YYYYwwwwYYYY
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+Map/
+
+Meta:
+Name: LEVEL 3
+Time: 180
+PowerUp: #
+Unbreakable: Y
+Meta/
+
+Legend:
+0) Breakout.Assets.Images.orange-block.png
+w) Breakout.Assets.Images.darkgreen-block.png
+#) Breakout.Assets.Images.green-block.png
+Y) Breakout.Assets.Images.brown-block.png
+b) Breakout.Assets.Images.yellow-block.png
+Legend/

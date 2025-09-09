@@ -1,0 +1,41 @@
+Map:
+------------
+------------
+-aaaaaaaaaa-
+-aaaaaaaaaa-
+-000----000-
+-000-%%-000-
+-000-11-000-
+-000-%%-000-
+-000----000-
+-%%%%%%%%%%-
+-%%%%%%%%%%-
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+Map/
+
+Meta:
+Name: LEVEL 1
+Time: 300
+Hardened: %
+PowerUp: 1
+Meta/
+
+Legend:
+%) Breakout.Assets.Images.blue-block.png
+0) Breakout.Assets.Images.grey-block.png
+1) Breakout.Assets.Images.orange-block.png
+a) Breakout.Assets.Images.purple-block.png
+Legend/
